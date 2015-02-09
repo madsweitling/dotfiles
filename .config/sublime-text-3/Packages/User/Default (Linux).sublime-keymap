@@ -1,0 +1,8 @@
+[
+    { "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+q"], "command": "toggle_comment", "args": { "block": true } },
+
+    { "keys": ["ctrl+space"], "command": "code_intel_auto_complete" },
+    { "keys": ["ctrl+shift+g"], "command": "goto_python_definition"},
+    { "keys": ["ctrl+shift+b"], "command": "back_to_python_definition"}
+]

@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Jinja2",
+		"JSON Reindent",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pylint",
+		"SublimeREPL"
+	]
+}
